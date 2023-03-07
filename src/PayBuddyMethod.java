@@ -1,5 +1,3 @@
-import hb.PaymentMethod;
-
 public class PayBuddyMethod implements PaymentMethod {
 
     private String email;
