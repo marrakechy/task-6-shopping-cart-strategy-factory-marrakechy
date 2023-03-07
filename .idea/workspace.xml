@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3153c5c6-5b12-4e1b-8cdf-872c2ab767ca" name="Changes" comment="Class ready">
-      <change beforePath="$PROJECT_DIR$/src/PaymentMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PaymentMethod.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pmFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pmFactory.java" afterDir="false" />
+    <list default="true" id="3153c5c6-5b12-4e1b-8cdf-872c2ab767ca" name="Changes" comment="Commit">
+      <change beforePath="$PROJECT_DIR$/src/PaymentMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PayBuddyMethod.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,8 +15,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -63,7 +62,28 @@
       <option name="project" value="LOCAL" />
       <updated>1677697509254</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Commit">
+      <created>1678231076712</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1678231076712</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Commit">
+      <created>1678231167820</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1678231167820</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Commit">
+      <created>1678231326008</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1678231326008</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -79,6 +99,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Class ready" />
-    <option name="LAST_COMMIT_MESSAGE" value="Class ready" />
+    <MESSAGE value="Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit" />
   </component>
 </project>
